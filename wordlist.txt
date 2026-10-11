@@ -1,0 +1,19 @@
+# Small demo wordlist (common/weak passwords).
+# In a real audit you'd use rockyou.txt or similar.
+123456
+password
+password123
+qwerty
+abc123
+letmein
+monkey
+iloveyou
+admin
+welcome
+dragon
+sunshine
+football
+princess
+login
+master
+hello
